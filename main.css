@@ -1,0 +1,12 @@
+
+.l3xp-name {
+  font-size: 4rem;
+  font-family: "Bebas Neue";
+  padding: 20 0 20 0px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
